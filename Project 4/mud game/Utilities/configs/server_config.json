@@ -1,0 +1,8 @@
+{   
+    "CONNECTED":"False",
+    "AUTHENTICATED": "False",
+    "HOST": "localhost",
+    "PORT": 50505,
+    "MAX_CONNECTION": 3,
+    "CLIENTS_CREDENTIALS": "None"
+}
